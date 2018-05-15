@@ -1,2 +1,2 @@
 # TalentsChain
-talentschain
+TalentsChain(人才链)
